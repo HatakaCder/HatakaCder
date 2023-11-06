@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pwmymluq4yklfzcinjennkqaau)
+<h3 align="left">Current played</h3>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pwmymluq4yklfzcinjennkqaau&count={1})
