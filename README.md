@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm HatakaCder</h1>
 - 📫 How to reach me **phamviet26100@gmail.com**
 <h3 align="left">Current play</h3>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pwmymluq4yklfzcinjennkqaau&count={1})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pwmymluq4yklfzcinjennkqaau)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/hatakacder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hatakacder" height="30" width="40" /></a>
