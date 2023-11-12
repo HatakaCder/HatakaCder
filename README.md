@@ -1,5 +1,9 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm HatakaCder</h1>
+- My full name is Viet Quoc Pham.
+
+- Currently a third-year Bachelor of Computer Science student at University of Information Technology - VNUHCM.
+
 - 🔭 I’m currently working on **Vietnamese Newspapers Search Engine (VNsSE)**
 
 - 📫 How to reach me **phamviet26100@gmail.com**
