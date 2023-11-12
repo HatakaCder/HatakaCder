@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">List of songs I listened to recently on Spotify:</h3>  
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pwmymluq4yklfzcinjennkqaau&count=3)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pwmymluq4yklfzcinjennkqaau&unique=true)
