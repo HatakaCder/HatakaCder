@@ -1,8 +1,13 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm HatakaCder</h1>
-- My full name is Viet Quoc Pham.
 
-- Currently a third-year Bachelor of Computer Science student at University of Information Technology - VNUHCM.
+<ul>
+  <li>My full name is Viet Quoc Pham.</li>
+  <li>Currently a third-year Bachelor of Computer Science student at University of Information Technology - VNUHCM.</li>
+  <li>First language: Vietnamese</li>
+  <li>Second language: English - US</li>
+  <li>Foreign language: Japanese</li>
+</ul>
 
 - 🔭 I’m currently working on **Vietnamese Newspapers Search Engine (VNsSE)**
 
