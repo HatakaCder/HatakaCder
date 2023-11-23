@@ -9,7 +9,7 @@
   <li>Foreign language: Japanese</li>
 </ul>
 
-- 🔭 I’m currently working on **Vietnamese Newspapers Search Engine (VNsSE)**
+- 🔭 I’m currently working on [Vietnamese Newspapers Search Engine (VNsSE)](https://github.com/HatakaCder/VNnSE_Flask)
 
 - 📫 How to reach me **phamviet26100@gmail.com**
 
