@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">List of songs I listened to recently on Spotify:</h3>  
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31w2o7gkjxeahzfj7jdkxv5h5vou&unique=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w2o7gkjxeahzfj7jdkxv5h5vou&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
