@@ -3,7 +3,7 @@
 
 <ul>
   <li>My full name is Viet Quoc Pham.</li>
-  <li>Currently a third-year Bachelor of Computer Science student at University of Information Technology - VNUHCM.</li>
+  <li>Currently a fourth-year Bachelor of Computer Science student at the University of Information Technology - VNUHCM.</li>
   <li>First language: Vietnamese</li>
   <li>Second language: English - US</li>
   <li>Foreign language: Japanese</li>
