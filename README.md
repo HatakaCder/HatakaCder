@@ -1,3 +1,4 @@
+I don't usually upload my projects here, but I will upload all of them in the future. :D
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm HatakaCder</h1>
 
