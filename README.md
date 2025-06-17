@@ -4,7 +4,7 @@ I don't usually upload my projects here, but I will upload all of them in the fu
 
 <ul>
   <li>My full name is Viet Quoc Pham.</li>
-  <li>Currently a fourth-year Bachelor of Computer Science student at the University of Information Technology - VNUHCM.</li>
+  <li>Currently a final-year Bachelor of Computer Science student at the University of Information Technology - VNUHCM.</li>
   <li>First language: Vietnamese</li>
   <li>Second language: English - US</li>
   <li>Foreign language: Japanese</li>
