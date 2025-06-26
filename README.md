@@ -20,7 +20,7 @@ I don't usually upload my projects here, but I will upload all of them soon. :D
 <h3 align="left">Proficient Languages:</h3>
 <img src="major_langs.png"></img>
 
-- Python: Natural Language Processing, Machine Learning, Data Mining, Web Development
+- Python: Natural Language Processing, Computer Vision, Machine Learning, Deep Learning, Data Mining, Web Development
 
 - C#: Software Development
 
