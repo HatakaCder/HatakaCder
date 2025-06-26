@@ -1,4 +1,4 @@
-I don't usually upload my projects here, but I will upload all of them in the future. :D
+I don't usually upload my projects here, but I will upload all of them soon. :D
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm HatakaCder</h1>
 
@@ -22,7 +22,9 @@ I don't usually upload my projects here, but I will upload all of them in the fu
 
 - Python: Natural Language Processing, Machine Learning, Data Mining, Web Development
 
-- C#: Software Development 
+- C#: Software Development
+
+- JavaScript: Web Development
 
 <h3 align="left">Knowledgeable Languages and Tools:</h3>
 <p align="left">
