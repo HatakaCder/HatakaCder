@@ -1,14 +1,16 @@
-I don't usually upload my projects here, but I will upload all of them soon. :D
-### Hi there 👋
+<img src="https://i.pinimg.com/736x/d5/59/36/d559360bdf72826e6264ae1b8b283a54.jpg"/>
+
 <h1 align="center">Hi 👋, I'm HatakaCder</h1>
 
 <ul>
   <li>My full name is Viet Quoc Pham.</li>
-  <li>Currently a final-year Bachelor of Computer Science student at the University of Information Technology - VNUHCM.</li>
+  <li>I'm just a person who is fascinated by Artificial Intelligence and Software Development.</li>
   <li>First language: Vietnamese</li>
-  <li>Second language: English - US</li>
+  <li>Second language: English (US)</li>
   <li>Foreign language: Japanese</li>
+  <li>Hobbies: Listening to music, playing video games (souls-like), and reading novels.</li>
 </ul>
+
 
 - 📫 How to reach me **phamviet26100@gmail.com**
 
@@ -56,8 +58,6 @@ I don't usually upload my projects here, but I will upload all of them soon. :D
   <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
 </p>
-
-
 
 <!--
 **HatakaCder/HatakaCder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
